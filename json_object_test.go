@@ -16,6 +16,7 @@ type Customer struct {
 	LastName  string
 	Age       int
 	Married   bool
+	Hobbies   []string
 }
 
 // Function test
